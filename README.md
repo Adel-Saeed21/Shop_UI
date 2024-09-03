@@ -1,4 +1,4 @@
-# smarket
+# ShopMode
 
 A new Flutter project.
 
